@@ -1,1 +1,11 @@
-- Lecture 7 
+- Lecture 7 (Integer Data Type)
+
+	PHP_INT_MAX or PHP_INT_MIN to are a predefined function to check whether it's the maximum or minmum values of integer on the memory bits.
+	
+	There are 4 bases of numbers (integer with a base of 10, hecadecimal that starts with (0x), octadecimal that starts with (0), and binary that starts with (0b)).
+
+	when an integer gets to the maximum number and exceeds the boundries it becomes a float.
+
+	is_int() will return a true of false if the value is integer or not.
+
+	in the conversion process to integer from string php takes the number until it finds a text then stops.
