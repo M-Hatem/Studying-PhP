@@ -1,0 +1,6 @@
+- Lecture 6 (Boolean Data Type)
+
+	if you printed true it will show up number 1;
+	otherwise if you printed false it will show a whitspace.
+
+	is_bool() will return a value if true or false depends on the variable if boolean or not.
