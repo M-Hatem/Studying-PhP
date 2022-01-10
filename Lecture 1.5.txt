@@ -1,0 +1,26 @@
+- Lecture 5 (Data types & Type Casting)
+	
+	PhP is dynamic declaring language because variables are declared in run time not in compiling time.
+	it's also called weakly typed language.
+
+	it's consists of 10 data types.
+	4 are scalar types, 4 are compound types, and 2 are special types, and gettype() will show of what type of data is declared.
+	also var_dump() will show more info about the data type.
+	scalar types : boolean, integer, float, and string.
+	compound types : arrays, objects, callable, iterable.
+	we use print_r() to print array because echo won't do it because it can't convert array into a string.
+	special types : resource and null.
+	
+	strict mode is strict for data types, if it's expected intger we can't put string to be converted due to coersion.
+	to use strict mode : declare(strict_types=1);
+
+
+	The casts allowed are:
+
+		(int), (integer) - cast to int
+		(bool), (boolean) - cast to bool
+		(float), (double), (real) - cast to float
+		(string) - cast to string
+		(array) - cast to array
+		(object) - cast to object
+		(unset) - cast to NULL
