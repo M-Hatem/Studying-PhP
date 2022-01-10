@@ -1,0 +1,19 @@
+- Lecture 8 (Float Data Type)
+
+	PHP_FLOAT_MAX and PHP_FLOAT_MIN to check maximum and minimum numbers.
+
+	floor() function rounds the number down.
+	
+	ceil() function rounds the number up.
+
+	don't ever compare floats number because it's not accurate and the precision is low.
+
+	INF stands for infinity it shows up if we exceeds the maximum numbers.
+
+	is_infinite() shows true or flase if the value is infinity or not.
+
+	is_finite() shows true or flase if the value is finite or not.
+
+	is_nan() shows true or false if the value is a string or not.
+
+	if we converted any string to a float it will result a 0.
