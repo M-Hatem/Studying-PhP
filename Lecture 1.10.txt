@@ -1,0 +1,11 @@
+- Lecture 10 (Null Data Type)
+
+	we can get null as a constant.
+
+	we can use is_null() to check if the value is a null or not.
+
+	we can get null if the variable is not defined.
+
+	unset() function to destroy a specific value.
+
+	we can get null if the variable is destroyed with the unset() function.
