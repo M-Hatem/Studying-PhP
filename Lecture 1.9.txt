@@ -1,0 +1,14 @@
+- Lecture 9 (String Data Type)
+
+	u can't use variables in single qoute string, but you can use variables in double quote strings.
+
+	heredoc is like typing a string in a double quote, otherwise nowdoc is like typing a string between a single quote.
+	nl2br() function to add new line every line to a specific variable.
+
+	syntax :
+	heredoc => $text = >>>TEXT //code here TEXT;
+	nowdoc => $text = the same as heredoc but the identfire should be in a single quote => >>>'TEXT' //code here TEXT;
+
+	the use of heredoc and nowdoc is when typing a multiline string with a readable code, and we need to escape symbols on them,
+and we can have a full dynamic html in here, and it's like pre element in html.
+
