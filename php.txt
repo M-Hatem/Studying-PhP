@@ -1,0 +1,19 @@
+
+
+- Lecture 3
+	we don't need a closing tag if the code is 100% php.
+	the different btween Print and echo.
+	double quotes could have variables in it or symbol.
+	semicolon could be meglected in the last line in php code
+	how to use terminal with php.
+	variables should always start with a letter or underscore and can't start with numbers or any symbols.
+	& symbol to reffer to another variable.
+	in single quote the variable is printed the way it's.
+	we can surroend the variable with curly parenthsis.
+	<?= ?> a short hand code to print the between text.
+	// and # for single line comment.
+	/* */ for multi line comment.
+	/* * */ docblocks for writing documentation comments.
+
+- Lecture 4
+	
