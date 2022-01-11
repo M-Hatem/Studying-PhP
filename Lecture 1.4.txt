@@ -1,0 +1,10 @@
+- Lecture 4 (Constant & Variable Variable)
+
+	define function to define a constant, it takes 3 parameters , name value and boolean if case senstive or no.
+	define a consant with all uppercase.
+	defined retures boolean value it checks whether the consant is defined or not.
+	another way to define a constant is const keyword.
+	the differnce between const and define for constant.
+	Magic constant and Predefined constants.
+	variable variable.
+	

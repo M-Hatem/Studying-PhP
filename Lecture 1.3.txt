@@ -1,4 +1,4 @@
-- Lecture 3
+- Lecture 3 (Basic Syntax)
 
 	we don't need a closing tag if the code is 100% php.
 	the different btween Print and echo.
